@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gamelist</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_world">Hello World</string>
+
+    <!-- TODO: Here place all your string used for the application -->
+    <string name="tvNum">Numero</string>
+    <string name="tvTitre">Titre</string>
+    <string name="tvImage_Layout">Image_Layout</string>
+    <string name="tvTimeStamp">Time Stamp</string>
+    <string name="tvGenre">Genre</string>
+    <string name="tvEditor">Editor</string>
+    <string name="tvPlatform">Platform</string>
+    <string name="tvDeveloper">Developer</string>
+    <string name="tvDescription">Description</string>
+    <string name="tvConsole">Console</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
